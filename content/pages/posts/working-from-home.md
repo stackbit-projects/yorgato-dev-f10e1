@@ -2,7 +2,7 @@
 title: Deseo comenzar a escribir sobre mi experiencia en Software
 excerpt: >-
   Deseo comenzar a escribir sobre mi experiencia en Software.
-date: '2021-08-22'
+date: '2021-05-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: A man sitting at the table
 content_img_path: images/9.jpg
