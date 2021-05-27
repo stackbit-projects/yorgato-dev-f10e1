@@ -30,11 +30,6 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ],
         "has_social": true,
