@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi \U0001F44B, I'm Yorley Reyes Garcia(@yorgato)"
+    title: "Hi \U0001F44B, I'm Yorley Reyes @yorgato"
     content: |+
       ### A passionate developer, leader with ability to motivate and educate
 
