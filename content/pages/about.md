@@ -31,12 +31,12 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Yorley Reyes** is a Senior Software Enginner from Palmira near to Cali- Colombia. I'm Software Enginnerommunication Design, he worked for fyteen years on software develoment, since junior when begin on 2006 to director in diferents sector, in my jobs are amazing expriencies.
+**Yorley Reyes** Yorley Reyes is a Senior Software Engineer from Palmira near to Cali- Colombia. I'm Software Engineer, he worked for fyteen years on software develoment, since junior when begin on 2006 to director, i have worked in diferents sectors, my jobs are amazing expriencies.
 
-His work has been recognized by Companys, in have been know many people, since projecto micro for peronas o small bussines a Big Companies.
+I have worked has been recognized by Companys, in have been know many people, since projecto for people o small bussines a Big Companies.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
-As a hobby, Yorley i like soccer and best soccer team America from Cali, I'm faher, husbandand some funny.
+As a hobby, i like soccer and best soccer team America from Cali, I'm faher, husbandand some funny.
 
 *Thank You people!*
