@@ -31,11 +31,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Yorley Reyes** Yorley Reyes is a Senior Software Engineer from Palmira near to Cali- Colombia. I'm Software Engineer, he worked for fyteen years on software develoment, since junior when begin on 2006 to director, i have worked in diferents sectors, my jobs are amazing expriencies.
+**Yorley Reyes** is a Senior Software Engineer from Palmira near to Cali- Colombia. I'm Msc. Software Engineering, I'm worked for fyteen years on software develoment, since junior when begin on 2006 to director, i have worked in diferents sectors, my jobs are amazing expriencies.
 
 I have worked has been recognized by Companys, in have been know many people, since projecto for people o small bussines a Big Companies.
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
 As a hobby, i like soccer and best soccer team America from Cali, I'm faher, husbandand some funny.
 
