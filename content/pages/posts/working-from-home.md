@@ -34,4 +34,4 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Esperen muy pronto un nuevo comienzo.
+Esperen muy pronto ....
