@@ -4,7 +4,7 @@ excerpt: Deseo comenzar a escribir sobre mi experiencia en Software.
 date: '2021-05-01'
 thumb_img_path: /images/pexels-dennis-perreault-4030087.jpg
 thumb_img_alt: A man sitting at the table
-content_img_path: images/9.jpg
+content_img_path: /images/pexels-dennis-perreault-4030087.jpg
 content_img_alt: A man sitting at the table
 seo:
   title: The Advantages and Disadvantages of Working from Home
