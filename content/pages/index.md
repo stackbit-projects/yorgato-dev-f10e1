@@ -15,11 +15,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      **Yorley Reyes** is a Senior Software Engineer
+       from Palmira near to Cali- Colombia. I'm Software Engineer, he worked 
+      for fyteen years on software develoment,I love programming and the new
+      technologies.
+
+
+
     actions: []
   - section_id: recent-posts
     type: section_posts
