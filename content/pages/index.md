@@ -39,7 +39,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/modern-paprika.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
