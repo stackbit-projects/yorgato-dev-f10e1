@@ -33,7 +33,7 @@ sections:
         style: button
 seo:
   title: Yorley Reyes Garcia(@yorgato)
-  description: The preview of the Fresh theme
+  description: Yorley Reyes Garcia(@yorgato)
   extra:
     - name: 'og:type'
       value: website
