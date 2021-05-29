@@ -3,7 +3,7 @@ title: Deseo comenzar a escribir sobre mi experiencia en Software
 excerpt: Deseo comenzar a escribir sobre mi experiencia en Software.
 date: '2021-05-01'
 thumb_img_path: /images/pexels-dennis-perreault-4030087.jpg
-thumb_img_alt: A man sitting at the table
+thumb_img_alt: 'Nuevas '
 content_img_path: /images/pexels-dennis-perreault-4030087.jpg
 content_img_alt: A man sitting at the table
 seo:
