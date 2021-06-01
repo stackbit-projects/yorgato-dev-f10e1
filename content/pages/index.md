@@ -15,13 +15,32 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
+    content: >+
       **Yorley Reyes** is a Senior Software Engineer
 
       from Palmira near to Cali- Colombia. I'm worked
 
       for fyteen years on software develoment,I love programming and the new
       technologies.
+
+
+      **Ask me about**
+
+
+      ###### Agile Development , Software Architecture
+
+
+      ###### Java, Spring Boot, Python, Javascript, GitHub
+
+
+      ###### Sql Databases and some NoSql.
+
+
+
+
+
+       
+
     actions: []
   - section_id: recent-posts
     type: section_posts
