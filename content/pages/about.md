@@ -35,6 +35,14 @@ layout: page
 
 I have worked in recognized organizations, I have met wonderful people and companies, and worked on projects for people, small businesses to large companies.
 
+My experience has allowed me to improve skills such as:
+
+*   Agile Development , Software Architecture
+
+*   Java, Spring Boot, Php, Python, Javascript, GitHub
+
+*   Sql Databases and some NoSql.
+
 As a hobby, i like soccer and best soccer team America from Cali, I'm faher, husband and some funny.
 
 *Thank You people!*
