@@ -30,7 +30,7 @@ sections:
       *   Agile Development , Software Architecture
 
 
-      *   Java, Spring Boot, Python, Javascript, GitHub
+      *   Java, Spring Boot, Php, Python, Javascript, GitHub
 
 
       *   Sql Databases and some NoSql.
