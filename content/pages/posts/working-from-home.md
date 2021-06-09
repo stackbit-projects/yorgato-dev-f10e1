@@ -34,10 +34,8 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Mi experiencia el mundo del software comenzo recien terminando la universidad, como nos toca a muchos ofreciendonos a empleadores que nos brindaran algo de experiencia sobre el 2006, en esta primera experiencia conoci un equipo de 3 compañeros desarrolladores y un lider que siempre estuvieron dandome esa luz en mi camino inicial en el software.
+Mi experiencia el mundo del software comenzó recién terminando la universidad, como nos toca a muchos ofreciéndonos a empleadores que nos brindaran algo de experiencia sobre el 2006, en esta primera experiencia conoci un equipo de 3 compañeros desarrolladores y un lider que siempre estuvieron dandome esa luz en mi camino inicial en el software.
 
-La universidad del valle de donde realice mi ingenieria te brinda muchas fortalezas y destresas
-
-
+La universidad del valle de donde realice mi ingenieria te brinda muchas fortalezas y destresas, entra las cuales destaco la presion a soportar nuevos retos que para principiantes son dificiles de superar.
 
 Continuará............................
