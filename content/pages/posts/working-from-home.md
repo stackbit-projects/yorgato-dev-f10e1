@@ -32,5 +32,6 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 layout: post
+excerpt: '@yorgato'
 ---
 Pronto...................
