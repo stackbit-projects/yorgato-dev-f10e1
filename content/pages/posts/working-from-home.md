@@ -1,5 +1,5 @@
 ---
-title: Deseo comenzar a escribir sobre mi experiencia en Software
+title: Pronto....
 excerpt: Deseo comenzar a escribir sobre mi experiencia en Software.
 date: '2021-05-01'
 thumb_img_path: /images/pexels-dennis-perreault-4030087.jpg
