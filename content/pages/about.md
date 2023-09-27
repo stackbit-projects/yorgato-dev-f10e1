@@ -43,6 +43,6 @@ My experience has allowed me to improve skills such as:
 
 *   Sql Databases and some NoSql.
 
-As a hobby, i like soccer and best soccer team America from Cali, I'm faher, husband and some funny.
+As a hobby, i like soccer and best soccer team America from Cali and some funny.
 
 *Thank You people!*
